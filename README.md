@@ -1,2 +1,2 @@
 # test-repo
-A trest repo for Changez
+A test repo for Changez

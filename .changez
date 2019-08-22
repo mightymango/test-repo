@@ -1,4 +1,5 @@
 {
   "log": "CHANGELOG.md",
-  "title" : "Changez"
+  "title" : "Changez",
+  "logo" : false
 }
